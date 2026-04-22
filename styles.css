@@ -1,5 +1,9 @@
-.home-pictures (
- display: flex;
- justify-content: center;
- gap: 20px;
- 
+.menu-picture {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  
+  width: 100%;       
+  height: 300px;     
+}
+
