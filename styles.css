@@ -1,7 +1,4 @@
-
-.tow-mater-pic {
-    width: 350px;
-    height: auto;
-    display: block;   
-    margin: 0 auto;    
-}
+.home-pictures (
+ display: flex;
+ justify-content: center;
+ 
